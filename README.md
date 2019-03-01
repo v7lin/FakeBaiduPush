@@ -1,6 +1,6 @@
 # FakeBaiduPush
 
-[![CI Status](https://img.shields.io/travis/v7lin@qq.com/FakeBaiduPush.svg?style=flat)](https://travis-ci.org/v7lin@qq.com/FakeBaiduPush)
+[![CI Status](https://img.shields.io/travis/v7lin/FakeBaiduPush.svg?style=flat)](https://travis-ci.org/v7lin/FakeBaiduPush)
 [![Version](https://img.shields.io/cocoapods/v/FakeBaiduPush.svg?style=flat)](https://cocoapods.org/pods/FakeBaiduPush)
 [![License](https://img.shields.io/cocoapods/l/FakeBaiduPush.svg?style=flat)](https://cocoapods.org/pods/FakeBaiduPush)
 [![Platform](https://img.shields.io/cocoapods/p/FakeBaiduPush.svg?style=flat)](https://cocoapods.org/pods/FakeBaiduPush)
@@ -22,7 +22,7 @@ pod 'FakeBaiduPush'
 
 ## Author
 
-v7lin@qq.com, v7lin@qq.com
+v7lin, v7lin@qq.com
 
 ## License
 

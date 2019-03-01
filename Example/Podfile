@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FakeBaiduPush_Example' do
+  pod 'FakeBaiduPush', :path => '../'
+
+  target 'FakeBaiduPush_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FakeBaiduPush'
-  s.version          = '0.0.1'
+  s.version          = '1.5.4'
   s.summary          = 'FakeBaiduPush'
 
 # This description is used to generate tags and improve search results.
